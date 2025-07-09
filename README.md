@@ -6,4 +6,4 @@
 
 <p>I hold a Bachelor’s degree from St. John’s College in Santa Fe, NM, a “Great Books” school where students engage deeply with foundational texts and learn to think critically. I also studied urban planning at Temple University to better understand the lineage of our built environment and how data can shape its future.</p>
 
-<p>You can reach me at <strong>owenkobasz@gmail.com</strong> or connect on <a href="https://www.linkedin.com/in/owen-kobasz/" target="_blank">LinkedIn</a></p>
+<p>You can reach me at owenkobasz@gmail.com or connect on <a href="https://www.linkedin.com/in/owen-kobasz/" target="_blank">LinkedIn</a></p>
